@@ -1,5 +1,5 @@
 # Tp1-linux
-Déploiement d’une mini application front et Installation de Nginx sur un système Ubuntu
+    Déploiement d’une mini application front et Installation de Nginx sur un système Ubuntu
 
 ## Demarrage de la machine virtuelle
 ![img](https://github.com/user-attachments/assets/f49b4ae4-8263-4c9c-939e-ed811d0c5612)
